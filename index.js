@@ -4,3 +4,4 @@ payement="done ";
 console.log(payement)
 let bug ="find"
 console.log("bug solved")
+console.log("project ko close kiya jaya")
